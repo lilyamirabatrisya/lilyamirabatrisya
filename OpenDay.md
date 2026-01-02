@@ -52,17 +52,21 @@ Mr. Helmee's journey from overcoming obstacles to becoming an expert in project 
 
 ## **Event Memories**
 
-![Beginning of Mr Helmee's Talk](https://imgur.com/a/Pcs4kPo)
-- *The title of the slide*
+### **1. Beginning of Mr Helmee's Talk**
+![Beginning of Mr Helmee's Talk](/helmee-talk.jpg)
+*The title of the slide as Mr Helmee begins his presentation*
 
-![Key takeaways slide](https://imgur.com/a/c7Nu4rb)
-- *Mr Helmee explaining the importance of Daily Stand Up during project managements*
+### **2. Key Takeaways Slide**
+![Key Takeaways Slide](/key-takeaways.jpg)
+*Mr Helmee explaining the importance of Daily Stand Up during project management*
 
-![Group photo with my teammates](https://imgur.com/a/sLqemcU)
-- *With my team after visiting s many booth as we possibly could*
+### **3. Group Photo with Teammates**
+![Group Photo with Teammates](/group-photo.jpg)
+*With my team after visiting as many booths as we possibly could!*
 
-![Booth Visiting](https://imgur.com/a/uVdjbzX)
-- *Me and my teammates visiting MicroCorp Booth during our visit*
+### **4. Booth Visiting**
+![Booth Visiting](/booth-visit.jpg)
+*Me and my teammates visiting the MicroCorp Booth during our visit*
 
 ---
 
@@ -100,9 +104,9 @@ The most valuable lesson wasn't in the slides, but it is the **story behind his 
 *Posted with gratitude,*  
 **Lily Amira Batrisya binti Shahrul Sham**  
 *Faculty of Computing, Universiti Teknologi Malaysia*  
-*you can reach out to me at*
-*personal email: lilyamirabatrisyal@gmail.comy*  
-*student email: lilyamirabatrisyal@graduate.utm.my*  
+*You can reach out to me at:*  
+*Personal email: lilyamirabatrisyal@gmail.com*  
+*Student email: lilyamirabatrisyal@graduate.utm.my*  
 
 ---
 
