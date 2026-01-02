@@ -4,7 +4,7 @@
 
 Thank you, Mr. Helmee, for such an inspiring talk. I have gained a lot of knowledge from you. For instance, I learned about agile methodology in DDI development approach and 12 agile principles.
 
-His life journey to get to where he is now has also given me a lot of motivation to never give up and keep moving forward.
+His life journey to get to where he is now has also given me a lot of motivation to never give up and keep moving forward. Not only that, being able to visit the booths has gave me the insights of how the real industry works. This made me realised that attending classes alone isn't enough. I have to put in extra work to get more experience and knowledge. It could either be learning new programming languages, sharpens my communication skills and work more in group settings to learn team works and leadership skills.
 
 ---
 
@@ -23,7 +23,7 @@ His life journey to get to where he is now has also given me a lot of motivation
 ### 3. **Life Lessons & Career Journey**
 - Mr. Helmee's personal journey from challenges to success
 - The power of **persistence** in tech careers
-- **"Every 'no' brings you closer to a 'yes'"** - A mindset shift for aspiring developers
+- **"Every 'no' brings you closer to a 'yes'"** - Creating a new mindset that shifts the way we see rejections
 
 ---
 
@@ -31,12 +31,11 @@ His life journey to get to where he is now has also given me a lot of motivation
 
 > "Project management isn't just about timelines—it's about **people, processes, and passion**."
 
-- **Tech is 20% coding, 80% communication** - Soft skills matter!
-- **Fail fast, learn faster** - Agile teaches us to embrace mistakes as growth opportunities
-- **Your career path doesn't have to be linear** - Mr. Helmee's diverse experience proved this
-- **Documentation is as important as development** - Clear documentation saves time and prevents errors
-- **Client collaboration over contract negotiation** - Building relationships leads to better outcomes
-- **Sustainable development pace** - Avoiding burnout leads to consistent quality work
+- **Tech is 20% coding, 80% communication**. Thus, soft skills matter!
+- **Fail fast, learn faster**. This is where agile teaches us to embrace mistakes as it is a way opportunities grow.
+- **Your career path doesn't have to be linear**. Mr Helmee's talk has explained how it's normal to shift career paths.
+- **Documentation is as important as development**. This is to ensure we dont waste time in debugging errors.
+- **Client collaboration over contract negotiation**. This is to build relationships that leads to better outcomes and network.
 
 ---
 
@@ -47,8 +46,7 @@ Mr. Helmee's journey from overcoming obstacles to becoming an expert in project 
 - **Continuous learning is non-negotiable in tech**
 - **Mentorship can dramatically accelerate your growth**
 - **Networking opens doors you never knew existed**
-
-His advice about **"starting with the end in mind"** when approaching projects has completely changed how I plan my coursework and personal projects.
+- **Success is achieved by hardwork and passion in what you are doing.**
 
 ---
 
@@ -69,17 +67,17 @@ His advice about **"starting with the end in mind"** when approaching projects h
 
 This session has motivated me to:
 
-### **Immediate Actions (This Semester)**
+### **Take Immediate Actions**
 1. Apply Agile principles in my upcoming group project
 2. Start a personal project using the DDI approach
 3. Document my learning journey on GitHub
 
-### **Short-Term Goals (Next 6 Months)**
+### **Have Short-Term Goals**
 1. Join UTM's project management club/community
 2. Network with 5 industry professionals through UTM's platform
 3. Complete an online certification in Agile fundamentals
 
-### **Long-Term Vision**
+### **Have Long-Term Vision**
 1. Become a student mentor for project management
 2. Contribute to open-source projects using Agile methodology
 3. Bridge the gap between academic theory and industry practice
