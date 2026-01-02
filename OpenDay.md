@@ -53,16 +53,16 @@ Mr. Helmee's journey from overcoming obstacles to becoming an expert in project 
 ## **Event Memories**
 
 ![Beginning of Mr Helmee's Talk](https://imgur.com/a/Pcs4kPo)
-*The title of the slide*
+- *The title of the slide*
 
 ![Key takeaways slide](https://imgur.com/a/c7Nu4rb)
-*Mr Helmee explaining the importance of Daily Stand Up during project managements*
+- *Mr Helmee explaining the importance of Daily Stand Up during project managements*
 
 ![Group photo with my teammates](https://imgur.com/a/sLqemcU)
-*With my team after visiting s many booth as we possibly could*
+- *With my team after visiting s many booth as we possibly could*
 
 ![Booth Visiting](https://imgur.com/a/uVdjbzX)
-*Me and my teammates visiting MicroCorp Booth during our visit*
+- *Me and my teammates visiting MicroCorp Booth during our visit*
 
 ---
 
