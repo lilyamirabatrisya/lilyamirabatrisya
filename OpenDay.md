@@ -18,7 +18,7 @@ His life journey to get to where he is now has also given me a lot of motivation
 ### 2. **The 12 Agile Principles**
 - Understanding each principle's impact on real-world projects
 - How these principles foster **team collaboration** and **customer satisfaction**
-- **"Welcome changing requirements, even late in development"** - This resonated deeply
+- **"Welcome changing requirements, even late in development"**, this resonated deeply
 
 ### 3. **Life Lessons & Career Journey**
 - Mr. Helmee's personal journey from challenges to success
@@ -52,14 +52,17 @@ Mr. Helmee's journey from overcoming obstacles to becoming an expert in project 
 
 ## **Event Memories**
 
-![Mr Helmee delivering his talk](/images/helmee-talk.jpg)
-*Mr. Helmee sharing insights on Agile methodology during UTM Digital Day*
+![Beginning of Mr Helmee's Talk](https://imgur.com/a/Pcs4kPo)
+*The title of the slide*
 
-![Group photo with attendees](/images/group-photo.jpg)
-*With fellow computing students after the inspiring session*
+![Key takeaways slide](https://imgur.com/a/c7Nu4rb)
+*Mr Helmee explaining the importance of Daily Stand Up during project managements*
 
-![Key takeaways slide](/images/slide-summary.jpg)
-*Important concepts about DDI development approach*
+![Group photo with my teammates](https://imgur.com/a/sLqemcU)
+*With my team after visiting s many booth as we possibly could*
+
+![Booth Visiting](https://imgur.com/a/uVdjbzX)
+*Me and my teammates visiting MicroCorp Booth during our visit*
 
 ---
 
