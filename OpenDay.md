@@ -86,24 +86,6 @@ This session has motivated me to:
 
 ---
 
-## 🔗 **Useful Resources Shared**
-- [Agile Manifesto](https://agilemanifesto.org/)
-- [DDI Development Framework](https://www.ibm.com/docs/en/cloud-paks/cp-biz-automation/23.0.1?topic=lifecycle-ddi-development-approach)
-- [Project Management Institute (PMI)](https://www.pmi.org/)
-- [Scrum Guide](https://scrumguides.org/)
-- [Atlassian Agile Coach](https://www.atlassian.com/agile)
-
----
-
-## 📚 **Recommended Next Steps for Fellow Students**
-1. **Start Small**: Implement one Agile principle in your next assignment
-2. **Find a Mentor**: Reach out to seniors or lecturers for guidance
-3. **Build a Portfolio**: Document your projects with proper methodology
-4. **Stay Curious**: Follow industry blogs and attend more tech talks
-5. **Give Back**: Share what you learn with your peers
-
----
-
 ## 🌈 **Final Thoughts**
 
 The UTM Digital Day was more than just an event—it was a **mindset shift**. Mr. Helmee didn't just teach us about project management; he showed us how to **think like professionals** and **build like innovators**.
@@ -115,14 +97,13 @@ The most valuable lesson wasn't in the slides, but in the **story behind the suc
 ---
 
 *Posted with gratitude,*  
-**[Your Name Here]**  
+**Lily Amira Batrisya binti Shahrul Sham**  
 *Faculty of Computing, Universiti Teknologi Malaysia*  
-*📧 your.email@student.utm.my*  
-*🔗 [LinkedIn Profile](https://linkedin.com/in/yourprofile)*  
-*🐙 [GitHub Portfolio](https://github.com/yourusername)*  
+*you can reach out to me at*
+*personal email: lilyamirabatrisyal@gmail.comy*  
+*student email: lilyamirabatrisyal@graduate.utm.my*  
 
 ---
-**Tags:** `#UTM` `#DigitalDay` `#ProjectManagement` `#Agile` `#SystemDevelopment` `#DDI` `#TechEducation` `#CareerGrowth` `#StudentLife` `#UTMComputing` `#NeverGiveUp` `#KeepMovingForward`
 
 **Event:** UTM Digital Day 2024  
 **Date:** 29th October 2024  
