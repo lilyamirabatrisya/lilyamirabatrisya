@@ -54,19 +54,19 @@ Mr. Helmee's journey from overcoming obstacles to becoming an expert in project 
 
 ### **1. Beginning of Mr Helmee's Talk**
 ![Beginning of Mr Helmee's Talk](/helmee-talk.jpg)
-*The title of the slide as Mr Helmee begins his presentation*
+- *The title of the slide as Mr Helmee begins his presentation*
 
 ### **2. Key Takeaways Slide**
 ![Key Takeaways Slide](/key-takeaways.jpg)
-*Mr Helmee explaining the importance of Daily Stand Up during project management*
+- *Mr Helmee explaining the importance of Daily Stand Up during project management*
 
 ### **3. Group Photo with Teammates**
 ![Group Photo with Teammates](/group-photo.jpg)
-*With my team after visiting as many booths as we possibly could!*
+- *With my team after visiting as many booths as we possibly could!*
 
 ### **4. Booth Visiting**
 ![Booth Visiting](/booth-visit.jpg)
-*Me and my teammates visiting the MicroCorp Booth during our visit*
+- *Me and my teammates visiting the MicroCorp Booth during our visit*
 
 ---
 
