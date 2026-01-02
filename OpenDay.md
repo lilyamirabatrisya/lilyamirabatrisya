@@ -1,4 +1,4 @@
-# 🌟 UTM Digital Day Reflection: Insights on Project Management & System Development
+# UTM Digital Day Reflection: Insights on Project Management & System Development
 
 **UTM Digital Day** was held on **29th October**. I had the incredible opportunity to attend a talk by **Mr. Helmee bin Yaacob** about **Project Management and System Development**.
 
@@ -8,7 +8,7 @@ His life journey to get to where he is now has also given me a lot of motivation
 
 ---
 
-## 🎯 **Key Takeaways from the Session**
+## **Key Takeaways from the Session**
 
 ### 1. **Agile Methodology in DDI Development**
 - Learned how **Agile** transforms traditional project management
@@ -27,7 +27,7 @@ His life journey to get to where he is now has also given me a lot of motivation
 
 ---
 
-## 💡 **Eye-Opening Realizations**
+## **Eye-Opening Realizations**
 
 > "Project management isn't just about timelines—it's about **people, processes, and passion**."
 
@@ -39,7 +39,7 @@ His life journey to get to where he is now has also given me a lot of motivation
 
 ---
 
-## 🙏 **Personal Reflection**
+## **Personal Reflection**
 
 Mr. Helmee's journey from overcoming obstacles to becoming an expert in project management has shown me that:
 - **Challenges are opportunities in disguise**
@@ -50,7 +50,7 @@ Mr. Helmee's journey from overcoming obstacles to becoming an expert in project 
 
 ---
 
-## 📸 **Event Memories**
+## **Event Memories**
 
 ![Mr Helmee delivering his talk](/images/helmee-talk.jpg)
 *Mr. Helmee sharing insights on Agile methodology during UTM Digital Day*
@@ -63,7 +63,7 @@ Mr. Helmee's journey from overcoming obstacles to becoming an expert in project 
 
 ---
 
-## 🚀 **Moving Forward - My Action Plan**
+## **Moving Forward - My Action Plan**
 
 This session has motivated me to:
 
@@ -84,13 +84,13 @@ This session has motivated me to:
 
 ---
 
-## 🌈 **Final Thoughts**
+## **Final Thoughts**
 
-The UTM Digital Day was more than just an event—it was a **mindset shift**. Mr. Helmee didn't just teach us about project management; he showed us how to **think like professionals** and **build like innovators**.
+The UTM Digital Day was more than just an event. It was a **mindset shift**. Mr. Helmee didn't just teach us about project management. He showed us how to **think like professionals** and **build like innovators**.
 
-The most valuable lesson wasn't in the slides, but in the **story behind the success**—the late nights, the failed attempts, the persistence, and the eventual breakthrough.
+The most valuable lesson wasn't in the slides, but it is the **story behind his success**. The late nights, the failed attempts, the persistence, and the eventual breakthrough.
 
-> **"The only way to do great work is to love what you do. If you haven't found it yet, keep looking. Don't settle."** - Inspired by Mr. Helmee's journey
+> **The only way to do great work is to love what you do. If you haven't found it yet, keep looking. Don't settle for what you done love.**
 
 ---
 
