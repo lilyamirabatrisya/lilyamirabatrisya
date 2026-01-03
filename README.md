@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Lily Amira Batrisya
 ============================================================================================================================================
 
-Bachelor's student in Universiti Teknologi Malaysia
+Bachelor student in Universiti Teknologi Malaysia
 ---------------------------------------------------
 
 I am a first year student (2025/26) in Universiti Teknologi Malaysia majoring in Computer Science (Network and Computer Security). I have always be an enthusiast when it comes to learning programming languages. I dreamed to be a professional in this course and I will ensure the dream becomes a reality.
